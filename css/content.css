@@ -1,0 +1,354 @@
+@font-face {
+    font-family: "Yeseva One";
+    src: url("../font/YesevaOne-Regular.ttf");
+}
+
+body{
+    background-color: #C4D8CB;
+    font-family: "Yeseva One";
+    display: block;
+}
+
+.header{
+    height: 126px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+}
+.item1{
+    display: inline-block;
+    padding: 38px 60px 38px 60px;
+    font-size: 35px;
+    color: #F8F8F8;
+}
+a{
+    color: #F8F8F8;
+    text-decoration: none;
+}
+
+.first_frame{
+    height: 1620px;
+    width: 1440px;
+    position: relative;
+} 
+.item2{
+    color: #C95853;
+    font-size: 185px;
+    position: absolute;
+    top: 246px; left: 195px;
+}
+.item3{
+    color: #4F8A60;
+    font-size: 35px;
+    position: absolute;
+    top: 425px; left: 391px;
+}
+.mountains{
+    position: absolute;
+    top: 97px;
+}
+.whole_house{
+    position: absolute;
+    top: 505px; left: 332px;
+}
+.many_flowers_2{
+    position: absolute;
+    top: 145px; left: 119px;
+}
+.many_twigs{
+    position: absolute;
+    top: 278px;
+}
+.many_flowers_1{
+    position: absolute;
+    top: 576px; left: 10;
+}
+.leaves_with_the_inscription{
+    position: absolute;
+    top: 1309px; left: -1px;
+}
+.inscriptions_1{
+    color:#F8F8F8;
+    font-size: 30px;
+}
+.fact1{
+    position: absolute;
+    top: 1378px; left: 270px;
+}
+.fact2{
+    position: absolute;
+    top: 1430px; left: 270px;
+}
+.fact3{
+    position: absolute;
+    top: 1482px; left: 270px;
+}
+.fact4{
+    position: absolute;
+    top: 1378px; left: 917px;
+}
+.fact5{
+    position: absolute;
+    top: 1430px; left: 917px;
+}
+.fact6{
+    position: absolute;
+    top: 1482px; left: 917px;
+}
+.big_flower{
+    position: absolute;
+    top: 1463px; left: 648px;
+}
+.flower{
+    position: absolute;
+    top: 849px; left: 250px;
+}
+
+.second_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+} 
+.picture_g{
+    position: absolute;
+    top: 189px; left: 587px;
+}
+.picture_Б{
+    position: absolute;
+    top: 137px; left: 41px;
+}
+.picture_Ж{
+    position: absolute;
+    top: 390px; left: 75px;
+}
+.picture_S{
+    position: absolute;
+    top: 29px; left: 487px;
+}
+.picture_ligature{
+    position: absolute;
+    top: 567px; left: 587px;
+}
+.many_paintings_with_flower{
+    position: absolute;
+    top: 233px; left: 417px;
+}
+.many_flowers{
+    position: absolute;
+    top: 45px; left: 181px;
+}
+.ladder{
+    position: absolute;
+    top: 270px; left: 249px;
+}
+.fact21{
+    color:#C95853;
+    font-size: 55px;
+    position: absolute;
+    top: 55px; left: 850px;
+}
+.fact22{
+    color:#C95853;
+    font-size: 35px;
+    position: absolute;
+    top: 295px; left: 850px;
+}
+.fact23{
+    color:#26243E;
+    font-size: 35px;
+    position: absolute;
+    top: 335px; left: 850px;
+}
+
+.third_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+    background-color: #4F8A60;
+} 
+.picture_3{
+    position: absolute;
+    top: 114px; left: 1028px;
+}
+.picture_2{
+    position: absolute;
+    top: 114px; left: 610px;
+}
+.picture_1{
+    position: absolute;
+    top: 114px; left: 191px;
+}
+.many_flowers3{
+    position: absolute;
+    top: 12px; left: 1131px;
+}
+.ladder3{
+    position: absolute;
+    left: -183px;
+}
+.fact31{
+    color: #F8F8F8;
+    font-size: 55px;
+    position: absolute;
+    top: -28px; left: 56px;
+}
+.fact32{
+    color: #F8F8F8;
+    text-align: right;
+    font-size: 35px;
+    position: absolute;
+    top: 658px; right: 44px;
+    width: 428px;
+}
+
+.fourth_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+} 
+.picture_4_1{
+    position: absolute;
+    top: 62px; left: 67px;
+}
+.picture_4_2{
+    position: absolute;
+    top: 62px; left: 753px;
+}
+.ladder4{
+    position: absolute;
+    top: 315px; left: 289px;
+}
+.fact41{
+    color:#26243E;
+    font-size: 35px;
+    position: absolute;
+    top: 646px; left: 68px;
+}
+.fact42{
+    color:#C95853;
+    font-size: 35px;
+    position: absolute;
+    top: 686px; left: 68px;
+}
+
+.fifth_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+    background-color: #4F8A60;
+} 
+.Group246{
+    position: absolute;
+    top: 204px; left: 968px;
+}
+.Group247{
+    position: absolute;
+    top: 204px; left: 510px;
+}
+.Group248{
+    position: absolute;
+    top: 204px; left: 52px;
+}
+.ladder5{
+    position: absolute;
+    top: 567px; left: 947px;
+}
+.fact51{
+    color:#F8F8F8;
+    font-size: 55px;
+    position: absolute;
+    left: 50px;
+    width: 423px;
+}
+.fact52{
+    color:#F8F8F8;
+    text-align: right;
+    font-size: 35px;
+    position: absolute;
+    top: 46px; left: 610px;
+}
+.fact53{
+    color:#E9B7AA;
+    text-align: right;
+    font-size: 35px;
+    position: absolute;
+    top: 86px; left: 1128px;
+}
+
+.sixth_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+} 
+.many_books{
+    position: absolute;
+    top: 208px; left: 30px;
+}
+.shelf{
+    position: absolute;
+    top: 748px; left: 13px;
+}
+.fact61{
+    color: var #26243E;
+    font-size: 45px;
+    position: absolute;
+    top: 32px; left: 40px;
+    width: 651px;
+}
+
+.sevent_frame{
+    height: 810px;
+    width: 1440px;
+    position: relative;
+} 
+.poster_1{
+    position: absolute;
+    top: 32px; left: 23px;
+}
+.poster_2{
+    position: absolute;
+    top: 117px; left: 451px;
+}
+.poster_3{
+    position: absolute;
+    top: 19px; left: 953px;
+}
+
+.eighth_frame{
+    height: 883px;
+    width: 1440px;
+    position: relative;
+} 
+.shelf2{
+    position: absolute;
+    top: 21px; left: 289px;
+}
+.many_tea{
+    position: absolute;
+    top: 298px; left: 813px;
+}
+.many_flowers2{
+    position: absolute;
+    top: 0px; left: 56px;
+}
+.teapot{
+    position: absolute;
+    top: 508px; left: 257px;
+}
+
+.footer{
+    height: 126px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+}
+.item1{
+    display: inline-block;
+    padding: 38px 60px 38px 60px;
+    font-size: 35px;
+    color: #F8F8F8;
+} 
